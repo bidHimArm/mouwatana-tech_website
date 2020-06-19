@@ -1,6 +1,6 @@
 ---
 banner:
-  title: MOUWATANA.TECH                   مواطنتك
+  title: Ta citoyenneté à portée de main                 مواطنتك بين يديك
 about:
   enable: true
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -137,3 +137,4 @@ clients_logo_slider:
 blog:
   enable: true
   title: Blogs
+ 
